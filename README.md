@@ -1,5 +1,5 @@
 # Chuck-Norris-Jokes
 Chrome Extension for Chuck Norris Jokes.
 
-This is basically a chrome extension that serves the user random Chuck Norris Jokes.
-I've used chucknorris.io's api for this.
+A very basic chrome extension for random Chuck Norris Jokes.
+Based on chucknorris.io's api.
